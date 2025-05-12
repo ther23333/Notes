@@ -1,6 +1,6 @@
 ## 1、init进程
 
-![image-20250512134943258](D:\Downloads\github\Notes\framework相关\assets\image-20250512134943258.png)
+![image-20250512164749208](./assets/image-20250512164749208.png)
 
 内核完成系统设置后，会在系统文件中启动init.rc文件
 
@@ -8,7 +8,7 @@ init进程是所有用户进程的鼻祖，进程号为1
 
 ## 2、zygote进程
 
-![image-20250512135111686](D:\Downloads\github\Notes\framework相关\assets\image-20250512135111686.png)
+![image-20250512164759786](./assets/image-20250512164759786.png)
 
 
 
